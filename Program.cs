@@ -3,17 +3,6 @@ using Homework_1;
 
 var bookServ = new BookService();
 
-// var book1 = new Book();
-// book1.Title = "Odina";
-// book1.Author = "Sadriddin Ayni";
-// book1.Category = "kissa";
-// book1.Access = true;
-
-// // bookServ.AddBook(book1);
-// // bookServ.DeleteBook(2);
-
-
-
 var stop = true;
 while (stop)
 {
